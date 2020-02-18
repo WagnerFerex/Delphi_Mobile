@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/12/31 01:47:20.000.647,=C:\Users\wagne\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/31 14:03:01.000.740,=C:\Users\wagne\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/31 14:03:26.000.685,=C:\Users\wagne\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/01/17 21:55:58.000.479,=C:\Users\wagne\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/01/23 20:37:04.000.154,=C:\Users\wagne\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/01/23 20:39:55.000.273,=C:\Users\wagne\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/01/23 21:06:13.000.327,=C:\Users\wagne\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/14 12:45:33.000.578,=C:\Users\wagne\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/14 13:30:35.000.834,C:\Users\wagne\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\MyProjects\Delphi_Mobile\Instagram\Instagram.View.Login.pas</Transaction>
+    <Transaction>2020/02/14 13:30:35.000.834,C:\Users\wagne\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\MyProjects\Delphi_Mobile\Instagram\Instagram.View.Login.fmx</Transaction>
+    <Transaction>2020/02/14 13:30:46.000.353,C:\Users\wagne\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\MyProjects\Delphi_Mobile\Instagram\Instagram.dproj</Transaction>
+    <Transaction>2020/02/15 12:33:28.000.696,=C:\MyProjects\Delphi_Mobile\Instagram\Unit2.pas</Transaction>
+    <Transaction>2020/02/15 12:34:02.000.690,C:\MyProjects\Delphi_Mobile\Instagram\Instagram.View.Social.fmx=C:\MyProjects\Delphi_Mobile\Instagram\Instagram.View.Login.fmx</Transaction>
+    <Transaction>2020/02/15 12:34:02.000.690,C:\MyProjects\Delphi_Mobile\Instagram\Instagram.View.Social.pas=C:\MyProjects\Delphi_Mobile\Instagram\Instagram.View.Login.pas</Transaction>
+    <Transaction>2020/02/15 12:34:46.000.035,C:\MyProjects\Delphi_Mobile\Instagram\Instagram.View.Login.fmx=C:\MyProjects\Delphi_Mobile\Instagram\Unit2.fmx</Transaction>
+    <Transaction>2020/02/15 12:34:46.000.035,C:\MyProjects\Delphi_Mobile\Instagram\Instagram.View.Login.pas=C:\MyProjects\Delphi_Mobile\Instagram\Unit2.pas</Transaction>
+    <Transaction>2020/02/15 12:42:58.000.424,C:\MyProjects\Delphi_Mobile\Instagram\Instagram.View.Inicial.fmx=C:\MyProjects\Delphi_Mobile\Instagram\Instagram.View.Social.fmx</Transaction>
+    <Transaction>2020/02/15 12:42:58.000.424,C:\MyProjects\Delphi_Mobile\Instagram\Instagram.View.Inicial.pas=C:\MyProjects\Delphi_Mobile\Instagram\Instagram.View.Social.pas</Transaction>
+    <Transaction>2020/02/15 18:54:05.000.358,=C:\MyProjects\Delphi_Mobile\Instagram\Unit1.pas</Transaction>
+    <Transaction>2020/02/15 18:54:44.000.905,C:\MyProjects\Delphi_Mobile\Instagram\Unit1.pas=C:\MyProjects\Delphi_Mobile\Instagram\Instagram.View.Main.pas</Transaction>
+    <Transaction>2020/02/15 18:54:44.000.905,C:\MyProjects\Delphi_Mobile\Instagram\Unit1.fmx=C:\MyProjects\Delphi_Mobile\Instagram\Instagram.View.Main.fmx</Transaction>
+    <Transaction>2020/02/15 18:55:07.000.861,C:\MyProjects\Delphi_Mobile\Instagram\Instagram.View.Inicial.fmx=C:\MyProjects\Delphi_Mobile\Instagram\Instagram.View.First.fmx</Transaction>
+    <Transaction>2020/02/15 18:55:07.000.861,C:\MyProjects\Delphi_Mobile\Instagram\Instagram.View.Inicial.pas=C:\MyProjects\Delphi_Mobile\Instagram\Instagram.View.First.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
